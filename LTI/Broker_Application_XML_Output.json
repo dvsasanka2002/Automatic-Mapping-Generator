@@ -1,0 +1,87 @@
+
+{
+
+ "carrier submission": {
+     "Id": "2020A7PS0005H",
+     "Carrier": "PennAmerica",
+     "Rater": null,
+     "BusinessType": null,
+     "Insured": {
+        "Name": "D V SASANKA",
+        "DoingBusinessAs": null,
+        "Address": {
+            "Address1": "Prakash Nagar",
+            "Address2": "hfsjfijf",
+            "City": "Kadapa",
+            "State": "AP",
+            "ZipCode": 516004,
+            "County": null,
+            "Quadrant": null
+         },
+        "ForeignAddress": null
+      },
+      "RetailAgency": null,
+      "EffectiveDate": "2029-05-15T17:51:03.75-04:00",
+      "ExpirationDate": "2029-05-15T17:51:03.75-04:00",
+      "Locations": [
+          {
+              "Sequence": 111111,
+              "DistanceToCoast": 999.0,
+              "DistanceToCoastOverride": false,
+              "Address": {
+                  "Address1": "jdcijdiojc",
+                  "Address2": "Address2 dforo",
+                  "City": "kdpvij",
+                  "State": "APTS",
+                  "ZipCode": 5342111111111111,
+                  "County": "Travis",
+                  "Quadrant": null
+             },
+            "IsMultipleOccupancy": false,
+            "IsonlyGL": false,
+            "BuildingID": 0
+          }
+        ],
+        "CommercialGeneralLiability": {
+           "OccurenceLimit": 1234567891,
+           "AggregateLimit": 9949825355,
+           "ProductsCompletedOperationsLimit": null,
+           "MedicalExpensesLimit": null,
+           "DamageToPremesisRentedToYouLimit": null,
+           "PersonalInjuryAndAdvertisingLimit": null,
+           "PremOpsDeductible": null,
+           "ProdOpsDeductible": null,
+           "ProfessionalIncidentLimit": null,
+           "Classifications": [
+                {
+                     "IfAny": false,
+                     "AdditionalInsured": 0,
+                     "Deductible": null,
+                     "PremiumBasis": {
+                         "Exposure": 120000,
+                         "BasisType": 5
+                      },
+                     "OwnersBasis": {
+                          "Exposure": 2,
+                          "BasisType": 14
+                      },
+                      "IsSubContractor": true,
+                      "OwnerPayrollAmt": 20000,
+                      "SnowRemoval": 0,
+                      "Programs": [],
+                      "ClassCode": "99498253555555555",
+                      "ClassCodeDescription": "DATA STRUCTURES AND ALGORITHMS DBMS",
+                      "LocationSequence": 1,
+                      "AdditionalPremium": null
+                }
+             ],
+             "Premium": 0
+         },
+         "CommercialLinesProperty": null,
+         "PersonalLinesLiability": null,
+         "PersonalLinesProperty": null,
+         "InlandMarine": null,
+         "LiquorLiability": null,
+         "Terrorism": null
+      }
+}
